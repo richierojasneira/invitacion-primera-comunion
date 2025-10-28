@@ -58,11 +58,11 @@
         <img src="invitacion.jpg" alt="Invitación Primera Comunión" class="invitation-image">
         
         <div class="details">
-            <p><strong>Fecha:</strong> [Inserte fecha aquí]</p>
-            <p><strong>Hora:</strong> [Inserte hora aquí]</p>
-            <p><strong>Lugar:</strong> [Inserte nombre de la iglesia y dirección]</p>
-            <p><strong>Recepción:</strong> [Inserte detalles de la recepción si aplica]</p>
-            <p><strong>Código de vestimenta:</strong> [Especificar si es formal, etc.]</p>
+            <p><strong>Fecha:</strong> [7 de Diciembre 2025]</p>
+            <p><strong>Hora:</strong> [7:00 pm]</p>
+            <p><strong>Lugar:</strong> [Santa Teresa]</p>
+            <p><strong>Recepción:</strong> [Conjunto recidencial]</p>
+            <p><strong>Código de vestimenta:</strong> [formal]</p>
         </div>
         
         <div class="rsvp">
