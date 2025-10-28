@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primera Comunión - Sara Juliana y Maria Jose</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            background-color: #f9f3f3;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #8b6b61;
+            margin-bottom: 10px;
+        }
+        .names {
+            font-size: 24px;
+            color: #a2836e;
+            margin: 20px 0;
+        }
+        .details {
+            text-align: left;
+            margin: 20px 0;
+            line-height: 1.6;
+        }
+        .invitation-image {
+            max-width: 100%;
+            height: auto;
+            margin: 20px 0;
+            border-radius: 5px;
+        }
+        .rsvp {
+            background-color: #f0e6dd;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Primera Comunión</h1>
+        <div class="names">Sara Juliana y Maria Jose</div>
+        
+        <!-- Reemplaza "invitacion.jpg" con el nombre de tu archivo de imagen -->
+        <img src="invitacion.jpg" alt="Invitación Primera Comunión" class="invitation-image">
+        
+        <div class="details">
+            <p><strong>Fecha:</strong> [Inserte fecha aquí]</p>
+            <p><strong>Hora:</strong> [Inserte hora aquí]</p>
+            <p><strong>Lugar:</strong> [Inserte nombre de la iglesia y dirección]</p>
+            <p><strong>Recepción:</strong> [Inserte detalles de la recepción si aplica]</p>
+            <p><strong>Código de vestimenta:</strong> [Especificar si es formal, etc.]</p>
+        </div>
+        
+        <div class="rsvp">
+            <h3>Confirma tu asistencia</h3>
+            <p>Por favor confirma antes del [fecha límite]</p>
+            <p>Tel: [número de contacto]</p>
+            <!-- Opcional: puedes añadir un formulario más adelante -->
+        </div>
+        
+        <p>Con la bendición de Dios y el cariño de nuestra familia</p>
+    </div>
+</body>
+</html>
